@@ -12,11 +12,24 @@
     "@types/node": "20.12.12",
     "@types/react": "18.3.2",
     "@types/react-dom": "18.3.0",
+    "chart.js": "^4.4.3",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "chartjs-chart-financial": "^0.2.1",
+    "date-fns": "^3.6.0",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.3",
+    "lodash": "^4.17.21",
     "next": "14.2.3",
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
+    "next-auth": "^4.24.7",
+    "node-fetch": "^3.3.2",
+    "react": "^18.3.1",
+    "react-autosuggest": "^10.1.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
     "typescript": "5.4.5"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.4",
+    "@types/react-autosuggest": "^10.1.11"
   }
 }
