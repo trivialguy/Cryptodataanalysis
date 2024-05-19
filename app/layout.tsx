@@ -1,4 +1,4 @@
-import { Provider } from 'web3/providers'
+// import { Provider } from 'web3/providers'
 import './globals.css'
 import Providers from './Provider'
 import AppBar from './AppBar'
