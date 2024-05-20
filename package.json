@@ -19,7 +19,7 @@
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.3",
     "lodash": "^4.17.21",
-    "next": "13.2.3",
+    "next": "14.2.3",
     "next-auth": "^4.24.7",
     "node-fetch": "^3.3.2",
     "react": "^18.3.1",
